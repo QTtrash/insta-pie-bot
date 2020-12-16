@@ -14,7 +14,13 @@ Repeats steps 1-4
 
 ## How to start: 
 
-Just put in your credentials and bot will do everything itself. 
+In your chosen directory
+```bash
+git clone git@github.com:QTtrash/insta-pie-bot.git
+cd insta-pie-bot/webapp
+python gui.py
+```
+Put in your credentials and watch bot do everything itself. 
 
 ## What you need right now:
 __*Before the app is dockerized or splitted into builds*__
