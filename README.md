@@ -12,6 +12,9 @@ Repeats steps 1-4
 
 ![Image of GUI](https://i.imgur.com/c856AaB.png) 
 
+## Little GIF of the process 
+
+![Image of GUI](https://i.imgur.com/OSNrKwb.gif) 
 ## How to start: 
 
 In your chosen directory
