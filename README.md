@@ -38,6 +38,6 @@ __**Before the app is dockerized or splitted into builds**__
 
 ## Contacts: 
 
-Email: smouchsiadis@gmail.com 
-LinkedIn: [Suren Mouchsiadis at LinkedIn](https://www.linkedin.com/in/surenmouchsiadis/)
-Twitter: [Suren Mouchsiadis at Twitter](https://twitter.com/QTTrash_)
+Email: smouchsiadis@gmail.com <br>
+LinkedIn: [Suren Mouchsiadis at LinkedIn](https://www.linkedin.com/in/surenmouchsiadis/) <br>
+Twitter: [Suren Mouchsiadis at Twitter](https://twitter.com/QTTrash_) <br>
