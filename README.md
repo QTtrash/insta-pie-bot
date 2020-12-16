@@ -1,6 +1,6 @@
 # insta-pie-bot
 
-### A little bot that 
+## A little bot that 
 
 1. Goes to your explore page of Instagram 
 2. Picks a random post
@@ -8,7 +8,7 @@
 4. Writes a random comment 
 
 Repeats steps 1-4 
-### This is how GUI looks: 
+## This is how GUI looks: 
 
 ![Image of GUI](https://i.imgur.com/c856AaB.png) 
 
