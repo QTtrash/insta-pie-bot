@@ -10,13 +10,13 @@
 Repeats steps 1-4 
 ### This is how GUI looks: 
 
-![Image of GUI](https://imgur.com/gallery/3jtYtRP) 
+![Image of GUI](https://i.imgur.com/c856AaB.png) 
 
-### How to start: 
+## How to start: 
 
 Just put in your credentials and bot will do everything itself. 
 
-### What you need right now:
+## What you need right now:
 __**Before the app is dockerized or splitted into builds**__
 
 * Python
@@ -25,7 +25,7 @@ __**Before the app is dockerized or splitted into builds**__
 * Firefox
 * pip
 
-### Future plans: 
+## Future plans: 
 
 * Dockerize the app
 * Builds for various OS 
@@ -36,7 +36,7 @@ __**Before the app is dockerized or splitted into builds**__
 * Ability to choose every browser
 * Parallelism of the bot 
 
-### Contacts: 
+## Contacts: 
 
 Email: smouchsiadis@gmail.com 
 LinkedIn: [Suren Mouchsiadis at LinkedIn](https://www.linkedin.com/in/surenmouchsiadis/)
