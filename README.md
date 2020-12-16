@@ -17,7 +17,7 @@ Repeats steps 1-4
 Just put in your credentials and bot will do everything itself. 
 
 ## What you need right now:
-__**Before the app is dockerized or splitted into builds**__
+__*Before the app is dockerized or splitted into builds*__
 
 * Python
 * Selenium
